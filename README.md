@@ -1,5 +1,5 @@
 # Ateliers
-Ateliers aidant à la promotion du programme
+Ateliers aidant à la [promotion du programme informatique](https://www.youtube.com/watch?v=J8xTAsMwueA) 
 
 |    Ateliers                                                     | Intitulé                                    |  Commentaires              |
 |:---------------------------------------------------------------:|:--------------------------------------------|:---------------------------| 
